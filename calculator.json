@@ -1,9 +1,3602 @@
 [
   {
-    "name": "Product Name Here",
+    "id": 1,
+    "name": "Haoma Noni Pro Gold 1l",
     "category": "Health & Wellness",
-    "mrp": 1500.0,
-    "ssp": 1200.0,
-    "bv": 200.0
+    "mrp": 2999.0,
+    "dp": 1949.0,
+    "bv": 18.0
+  },
+  {
+    "id": 2,
+    "name": "Haoma Spirulina Capsules 90N",
+    "category": "Health & Wellness",
+    "mrp": 960.0,
+    "dp": 738.0,
+    "bv": 5.0
+  },
+  {
+    "id": 3,
+    "name": "Haoma Aloe Vera Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 850.0,
+    "dp": 550.0,
+    "bv": 4.0
+  },
+  {
+    "id": 4,
+    "name": "Haoma Amla Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 750.0,
+    "dp": 480.0,
+    "bv": 3.0
+  },
+  {
+    "id": 5,
+    "name": "Haoma Giloy Tulsi Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 800.0,
+    "dp": 520.0,
+    "bv": 4.0
+  },
+  {
+    "id": 6,
+    "name": "Haoma Chyawanprash 1kg",
+    "category": "Health & Wellness",
+    "mrp": 750.0,
+    "dp": 600.0,
+    "bv": 4.0
+  },
+  {
+    "id": 7,
+    "name": "Haoma Shilajit Gold Resin 20g",
+    "category": "Health & Wellness",
+    "mrp": 2499.0,
+    "dp": 1449.0,
+    "bv": 14.0
+  },
+  {
+    "id": 8,
+    "name": "Haoma Omega 3 Fish Oil Softgels 60N",
+    "category": "Health & Wellness",
+    "mrp": 1299.0,
+    "dp": 799.0,
+    "bv": 6.0
+  },
+  {
+    "id": 9,
+    "name": "Haoma Multivitamin Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 10,
+    "name": "Haoma Calcium Citrate Malate Tablets",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 599.0,
+    "bv": 4.0
+  },
+  {
+    "id": 11,
+    "name": "Haoma Liv-Pro Syrup 500ml",
+    "category": "Health & Wellness",
+    "mrp": 650.0,
+    "dp": 420.0,
+    "bv": 3.0
+  },
+  {
+    "id": 12,
+    "name": "Haoma Triphala Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 700.0,
+    "dp": 450.0,
+    "bv": 3.0
+  },
+  {
+    "id": 13,
+    "name": "Haoma Sea Buckthorn Juice 500ml",
+    "category": "Health & Wellness",
+    "mrp": 1200.0,
+    "dp": 850.0,
+    "bv": 7.0
+  },
+  {
+    "id": 14,
+    "name": "Haoma Wheatgrass Juice 500ml",
+    "category": "Health & Wellness",
+    "mrp": 600.0,
+    "dp": 390.0,
+    "bv": 3.0
+  },
+  {
+    "id": 15,
+    "name": "Haoma Protein Powder 500g",
+    "category": "Health & Wellness",
+    "mrp": 1899.0,
+    "dp": 1399.0,
+    "bv": 10.0
+  },
+  {
+    "id": 16,
+    "name": "La Rasoi Cow Milk Ghee 1l",
+    "category": "Groceries & Spices",
+    "mrp": 1050.0,
+    "dp": 920.0,
+    "bv": 3.0
+  },
+  {
+    "id": 17,
+    "name": "La Rasoi Shuddh Kachhi Ghani Mustard Oil 1l",
+    "category": "Groceries & Spices",
+    "mrp": 210.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 18,
+    "name": "La Rasoi Rice Bran Oil 1l",
+    "category": "Groceries & Spices",
+    "mrp": 220.0,
+    "dp": 185.0,
+    "bv": 1.0
+  },
+  {
+    "id": 19,
+    "name": "La Rasoi Chicken Masala 150g",
+    "category": "Groceries & Spices",
+    "mrp": 403.0,
+    "dp": 340.0,
+    "bv": 1.0
+  },
+  {
+    "id": 20,
+    "name": "La Rasoi Shahi Paneer Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 21,
+    "name": "La Rasoi Turmeric Powder 500g",
+    "category": "Groceries & Spices",
+    "mrp": 180.0,
+    "dp": 150.0,
+    "bv": 0.8
+  },
+  {
+    "id": 22,
+    "name": "La Rasoi Red Chilli Powder 500g",
+    "category": "Groceries & Spices",
+    "mrp": 320.0,
+    "dp": 270.0,
+    "bv": 1.2
+  },
+  {
+    "id": 23,
+    "name": "La Rasoi Coriander Powder 500g",
+    "category": "Groceries & Spices",
+    "mrp": 170.0,
+    "dp": 140.0,
+    "bv": 0.7
+  },
+  {
+    "id": 24,
+    "name": "La Rasoi Garam Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 145.0,
+    "dp": 120.0,
+    "bv": 0.5
+  },
+  {
+    "id": 25,
+    "name": "La Rasoi Tea Leaf 500g",
+    "category": "Groceries & Spices",
+    "mrp": 360.0,
+    "dp": 295.0,
+    "bv": 2.0
+  },
+  {
+    "id": 26,
+    "name": "Haoma Apple & Argan Shampoo 400ml",
+    "category": "Personal Care",
+    "mrp": 800.0,
+    "dp": 530.0,
+    "bv": 4.0
+  },
+  {
+    "id": 27,
+    "name": "Haoma Neem Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 28,
+    "name": "Haoma Charcoal Peel Off Mask 100g",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 249.0,
+    "bv": 1.5
+  },
+  {
+    "id": 29,
+    "name": "Haoma Herbal Toothpaste 100g",
+    "category": "Personal Care",
+    "mrp": 130.0,
+    "dp": 95.0,
+    "bv": 0.5
+  },
+  {
+    "id": 30,
+    "name": "Haoma Aloe Vera Gel 200g",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 199.0,
+    "bv": 1.0
+  },
+  {
+    "id": 31,
+    "name": "Miakasa Safe Magic Floor Cleaner 1l",
+    "category": "Home Care",
+    "mrp": 350.0,
+    "dp": 290.0,
+    "bv": 2.0
+  },
+  {
+    "id": 32,
+    "name": "Miakasa Dish Wash Liquid 500ml",
+    "category": "Home Care",
+    "mrp": 199.0,
+    "dp": 159.0,
+    "bv": 1.0
+  },
+  {
+    "id": 33,
+    "name": "Miakasa Toilet Cleaner 500ml",
+    "category": "Home Care",
+    "mrp": 180.0,
+    "dp": 140.0,
+    "bv": 0.8
+  },
+  {
+    "id": 34,
+    "name": "Miakasa Fabric Liquid Detergent 1l",
+    "category": "Home Care",
+    "mrp": 450.0,
+    "dp": 360.0,
+    "bv": 2.5
+  },
+  {
+    "id": 35,
+    "name": "Miakasa Multi-Purpose Cleaner Spray 500ml",
+    "category": "Home Care",
+    "mrp": 275.0,
+    "dp": 215.0,
+    "bv": 1.2
+  },
+  {
+    "id": 36,
+    "name": "Miakasa Luxury Bath Towel Set",
+    "category": "Lifestyle",
+    "mrp": 1099.0,
+    "dp": 889.0,
+    "bv": 5.0
+  },
+  {
+    "id": 37,
+    "name": "Zeno Classic Men's Polo T-Shirt",
+    "category": "Fashion",
+    "mrp": 1599.0,
+    "dp": 1090.0,
+    "bv": 10.0
+  },
+  {
+    "id": 38,
+    "name": "Zeno Formal Trouser for Men",
+    "category": "Fashion",
+    "mrp": 2199.0,
+    "dp": 1499.0,
+    "bv": 12.0
+  },
+  {
+    "id": 39,
+    "name": "Zeno Anti-Theft Smart Backpack",
+    "category": "Lifestyle",
+    "mrp": 1699.0,
+    "dp": 1490.0,
+    "bv": 8.0
+  },
+  {
+    "id": 40,
+    "name": "Stivali Formal Reversible Leather Belt",
+    "category": "Fashion Accessories",
+    "mrp": 4200.0,
+    "dp": 1890.0,
+    "bv": 14.0
+  },
+  {
+    "id": 41,
+    "name": "Stivali Men's Formal Leather Shoes",
+    "category": "Footwear",
+    "mrp": 3499.0,
+    "dp": 2499.0,
+    "bv": 18.0
+  },
+  {
+    "id": 42,
+    "name": "Zeno Casual Sneakers for Men",
+    "category": "Footwear",
+    "mrp": 2999.0,
+    "dp": 1999.0,
+    "bv": 15.0
+  },
+  {
+    "id": 43,
+    "name": "Sanskruti Bhagavad Gita with Commentary",
+    "category": "Spiritual & Books",
+    "mrp": 999.0,
+    "dp": 650.0,
+    "bv": 5.0
+  },
+  {
+    "id": 44,
+    "name": "Sanskruti Hanuman Chalisa Pocket Edition Set",
+    "category": "Spiritual & Books",
+    "mrp": 450.0,
+    "dp": 300.0,
+    "bv": 2.0
+  },
+  {
+    "id": 45,
+    "name": "Miakasa Non-Stick Fry Pan 24cm",
+    "category": "Kitchenware",
+    "mrp": 1499.0,
+    "dp": 1099.0,
+    "bv": 8.0
+  },
+  {
+    "id": 46,
+    "name": "Miakasa Pressure Cooker 3L ISI Certified",
+    "category": "Kitchenware",
+    "mrp": 2299.0,
+    "dp": 1799.0,
+    "bv": 12.0
+  },
+  {
+    "id": 47,
+    "name": "Haoma Men's Energy Booster Capsule 30N",
+    "category": "Health & Wellness",
+    "mrp": 1799.0,
+    "dp": 1199.0,
+    "bv": 10.0
+  },
+  {
+    "id": 48,
+    "name": "Haoma Joint Care Oil 100ml",
+    "category": "Health & Wellness",
+    "mrp": 550.0,
+    "dp": 380.0,
+    "bv": 3.0
+  },
+  {
+    "id": 49,
+    "name": "La Rasoi Basmati Rice 5kg Pack",
+    "category": "Groceries & Spices",
+    "mrp": 899.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 50,
+    "name": "La Rasoi Multigrain Atta 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 375.0,
+    "dp": 320.0,
+    "bv": 2.0
+  },
+  {
+    "id": 51,
+    "name": "Haoma Diabo-Care Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 850.0,
+    "dp": 599.0,
+    "bv": 4.5
+  },
+  {
+    "id": 52,
+    "name": "Haoma Stone-Crusher Syrup 500ml",
+    "category": "Health & Wellness",
+    "mrp": 750.0,
+    "dp": 499.0,
+    "bv": 3.5
+  },
+  {
+    "id": 53,
+    "name": "Haoma Immune Booster Drops 30ml",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 54,
+    "name": "Haoma Pain Relief Spray 50g",
+    "category": "Health & Wellness",
+    "mrp": 220.0,
+    "dp": 160.0,
+    "bv": 1.0
+  },
+  {
+    "id": 55,
+    "name": "Haoma Ashwagandha Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 549.0,
+    "bv": 4.0
+  },
+  {
+    "id": 56,
+    "name": "Haoma Brahmi Memory Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 849.0,
+    "dp": 599.0,
+    "bv": 4.0
+  },
+  {
+    "id": 57,
+    "name": "Haoma Garcinia Cambogia Weight Management 60N",
+    "category": "Health & Wellness",
+    "mrp": 1199.0,
+    "dp": 799.0,
+    "bv": 6.0
+  },
+  {
+    "id": 58,
+    "name": "Haoma Wheatgrass Powder 250g",
+    "category": "Health & Wellness",
+    "mrp": 550.0,
+    "dp": 380.0,
+    "bv": 2.5
+  },
+  {
+    "id": 59,
+    "name": "Haoma Moringa Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 479.0,
+    "bv": 3.0
+  },
+  {
+    "id": 60,
+    "name": "Haoma Red Aloe Vera Juice 1l",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 61,
+    "name": "La Rasoi Sambar Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 125.0,
+    "dp": 105.0,
+    "bv": 0.5
+  },
+  {
+    "id": 62,
+    "name": "La Rasoi Pav Bhaji Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 135.0,
+    "dp": 112.0,
+    "bv": 0.5
+  },
+  {
+    "id": 63,
+    "name": "La Rasoi Kitchen King Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 140.0,
+    "dp": 115.0,
+    "bv": 0.5
+  },
+  {
+    "id": 64,
+    "name": "La Rasoi Chana Masala 100g",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 65,
+    "name": "La Rasoi Black Salt Powder 500g",
+    "category": "Groceries & Spices",
+    "mrp": 95.0,
+    "dp": 75.0,
+    "bv": 0.3
+  },
+  {
+    "id": 66,
+    "name": "La Rasoi Jeera Whole 500g",
+    "category": "Groceries & Spices",
+    "mrp": 290.0,
+    "dp": 240.0,
+    "bv": 1.0
+  },
+  {
+    "id": 67,
+    "name": "La Rasoi Mustard Seeds (Rai) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 90.0,
+    "bv": 0.4
+  },
+  {
+    "id": 68,
+    "name": "La Rasoi Sooji (Semolina) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 85.0,
+    "dp": 70.0,
+    "bv": 0.3
+  },
+  {
+    "id": 69,
+    "name": "La Rasoi Poha 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 90.0,
+    "dp": 75.0,
+    "bv": 0.3
+  },
+  {
+    "id": 70,
+    "name": "La Rasoi Dalia (Broken Wheat) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 95.0,
+    "dp": 80.0,
+    "bv": 0.3
+  },
+  {
+    "id": 71,
+    "name": "Haoma Onion Hair Oil 200ml",
+    "category": "Personal Care",
+    "mrp": 599.0,
+    "dp": 399.0,
+    "bv": 3.0
+  },
+  {
+    "id": 72,
+    "name": "Haoma Onion Hair Shampoo 300ml",
+    "category": "Personal Care",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 73,
+    "name": "Haoma Anti-Dandruff Shampoo 300ml",
+    "category": "Personal Care",
+    "mrp": 525.0,
+    "dp": 365.0,
+    "bv": 2.5
+  },
+  {
+    "id": 74,
+    "name": "Haoma Hair Conditioner 200ml",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 75,
+    "name": "Haoma Body Lotion 300ml",
+    "category": "Personal Care",
+    "mrp": 450.0,
+    "dp": 310.0,
+    "bv": 2.0
+  },
+  {
+    "id": 76,
+    "name": "Haoma Fairness Cream 50g",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 199.0,
+    "bv": 1.0
+  },
+  {
+    "id": 77,
+    "name": "Haoma Sunscreen SPF 50 100ml",
+    "category": "Personal Care",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 78,
+    "name": "Haoma Hand Sanitizer 500ml",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 79,
+    "name": "Haoma Shaving Cream 100g",
+    "category": "Personal Care",
+    "mrp": 140.0,
+    "dp": 99.0,
+    "bv": 0.5
+  },
+  {
+    "id": 80,
+    "name": "Haoma Talcum Powder 300g",
+    "category": "Personal Care",
+    "mrp": 210.0,
+    "dp": 150.0,
+    "bv": 1.0
+  },
+  {
+    "id": 81,
+    "name": "Miakasa Glass Cleaner Spray 500ml",
+    "category": "Home Care",
+    "mrp": 210.0,
+    "dp": 165.0,
+    "bv": 0.9
+  },
+  {
+    "id": 82,
+    "name": "Miakasa Dishwash Bar 4-in-1 Pack",
+    "category": "Home Care",
+    "mrp": 120.0,
+    "dp": 95.0,
+    "bv": 0.4
+  },
+  {
+    "id": 83,
+    "name": "Miakasa Air Freshener Pocket 3N",
+    "category": "Home Care",
+    "mrp": 225.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 84,
+    "name": "Miakasa Bathroom Freshener Block",
+    "category": "Home Care",
+    "mrp": 150.0,
+    "dp": 120.0,
+    "bv": 0.5
+  },
+  {
+    "id": 85,
+    "name": "Miakasa Shoe Rack Portable Fabric",
+    "category": "Lifestyle",
+    "mrp": 1299.0,
+    "dp": 949.0,
+    "bv": 6.0
+  },
+  {
+    "id": 86,
+    "name": "Zeno Women's Ethnic Kurti",
+    "category": "Fashion",
+    "mrp": 1499.0,
+    "dp": 999.0,
+    "bv": 8.0
+  },
+  {
+    "id": 87,
+    "name": "Zeno Men's Formal Shirt White",
+    "category": "Fashion",
+    "mrp": 1399.0,
+    "dp": 949.0,
+    "bv": 7.0
+  },
+  {
+    "id": 88,
+    "name": "Zeno Men's Cotton Casual Denim Jeans",
+    "category": "Fashion",
+    "mrp": 2499.0,
+    "dp": 1699.0,
+    "bv": 12.0
+  },
+  {
+    "id": 89,
+    "name": "Stivali Women's Handbag Stylish",
+    "category": "Fashion Accessories",
+    "mrp": 2999.0,
+    "dp": 1899.0,
+    "bv": 12.0
+  },
+  {
+    "id": 90,
+    "name": "Stivali Unisex Sunglasses UV Protected",
+    "category": "Fashion Accessories",
+    "mrp": 1999.0,
+    "dp": 1299.0,
+    "bv": 8.0
+  },
+  {
+    "id": 91,
+    "name": "Sanskruti Wooden Temple for Home",
+    "category": "Spiritual & Decor",
+    "mrp": 3499.0,
+    "dp": 2499.0,
+    "bv": 15.0
+  },
+  {
+    "id": 92,
+    "name": "Sanskruti Brass Pooja Thali Set",
+    "category": "Spiritual & Decor",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 93,
+    "name": "Sanskruti Premium Loban & Dhoop Cups",
+    "category": "Spiritual & Decor",
+    "mrp": 250.0,
+    "dp": 180.0,
+    "bv": 1.0
+  },
+  {
+    "id": 94,
+    "name": "Miakasa Insulated Stainless Steel Water Bottle 1L",
+    "category": "Kitchenware",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 95,
+    "name": "Miakasa Casserole Hot Pot Set of 3",
+    "category": "Kitchenware",
+    "mrp": 2499.0,
+    "dp": 1799.0,
+    "bv": 12.0
+  },
+  {
+    "id": 96,
+    "name": "Miakasa Dinner Set Melamine 32 Pieces",
+    "category": "Kitchenware",
+    "mrp": 3299.0,
+    "dp": 2399.0,
+    "bv": 16.0
+  },
+  {
+    "id": 97,
+    "name": "Haoma Kids Health Protein Drink 500g",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 98,
+    "name": "Haoma Iron & Folic Acid Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 599.0,
+    "dp": 399.0,
+    "bv": 3.0
+  },
+  {
+    "id": 99,
+    "name": "La Rasoi Green Tea Box 25 Tea Bags",
+    "category": "Groceries & Spices",
+    "mrp": 225.0,
+    "dp": 179.0,
+    "bv": 1.0
+  },
+  {
+    "id": 100,
+    "name": "La Rasoi Honey Pure 500g Glass Jar",
+    "category": "Groceries & Spices",
+    "mrp": 425.0,
+    "dp": 349.0,
+    "bv": 2.0
+  },
+  {
+    "id": 101,
+    "name": "Haoma Giloy Ghan Vati Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 350.0,
+    "dp": 249.0,
+    "bv": 1.5
+  },
+  {
+    "id": 102,
+    "name": "Haoma Tulsi Drops 30ml",
+    "category": "Health & Wellness",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 103,
+    "name": "Haoma Neem Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 310.0,
+    "bv": 2.0
+  },
+  {
+    "id": 104,
+    "name": "Haoma Piles Care Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 549.0,
+    "bv": 4.0
+  },
+  {
+    "id": 105,
+    "name": "Haoma Gas Care Churna 100g",
+    "category": "Health & Wellness",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.8
+  },
+  {
+    "id": 106,
+    "name": "Haoma Slimming Tea 25 Bags",
+    "category": "Health & Wellness",
+    "mrp": 399.0,
+    "dp": 280.0,
+    "bv": 2.0
+  },
+  {
+    "id": 107,
+    "name": "Haoma Vitamin C Chewable Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 108,
+    "name": "Haoma Biotin Hair Gummies 30N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 499.0,
+    "bv": 3.5
+  },
+  {
+    "id": 109,
+    "name": "Haoma Glucosamine Joint Support Tablets",
+    "category": "Health & Wellness",
+    "mrp": 1199.0,
+    "dp": 849.0,
+    "bv": 6.0
+  },
+  {
+    "id": 110,
+    "name": "Haoma Brain Active Syrup 200ml",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 310.0,
+    "bv": 2.0
+  },
+  {
+    "id": 111,
+    "name": "La Rasoi Hing Powder (Asafoetida) 50g",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 125.0,
+    "bv": 0.5
+  },
+  {
+    "id": 112,
+    "name": "La Rasoi Kasuri Methi 100g",
+    "category": "Groceries & Spices",
+    "mrp": 75.0,
+    "dp": 60.0,
+    "bv": 0.2
+  },
+  {
+    "id": 113,
+    "name": "La Rasoi Black Pepper Whole 100g",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.5
+  },
+  {
+    "id": 114,
+    "name": "La Rasoi Cardamom Green 50g",
+    "category": "Groceries & Spices",
+    "mrp": 250.0,
+    "dp": 210.0,
+    "bv": 0.8
+  },
+  {
+    "id": 115,
+    "name": "La Rasoi Cloves (Laung) 50g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 90.0,
+    "bv": 0.4
+  },
+  {
+    "id": 116,
+    "name": "La Rasoi Cinnamon Sticks (Dalchini) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 120.0,
+    "dp": 100.0,
+    "bv": 0.4
+  },
+  {
+    "id": 117,
+    "name": "La Rasoi Rock Salt Powder (Sendha Namak) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 90.0,
+    "bv": 0.3
+  },
+  {
+    "id": 118,
+    "name": "La Rasoi Roasted Chana Plain 500g",
+    "category": "Groceries & Spices",
+    "mrp": 140.0,
+    "dp": 115.0,
+    "bv": 0.5
+  },
+  {
+    "id": 119,
+    "name": "La Rasoi Makhana (Fox Nuts) 200g",
+    "category": "Groceries & Spices",
+    "mrp": 350.0,
+    "dp": 290.0,
+    "bv": 1.2
+  },
+  {
+    "id": 120,
+    "name": "La Rasoi Vermicelli (Sewai) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 75.0,
+    "dp": 60.0,
+    "bv": 0.2
+  },
+  {
+    "id": 121,
+    "name": "Haoma Papaya Face Pack 100g",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.0
+  },
+  {
+    "id": 122,
+    "name": "Haoma Cucumber Toner 100ml",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 123,
+    "name": "Haoma Rose Water Toner 200ml",
+    "category": "Personal Care",
+    "mrp": 220.0,
+    "dp": 150.0,
+    "bv": 0.8
+  },
+  {
+    "id": 124,
+    "name": "Haoma Anti-Acne Gel 50g",
+    "category": "Personal Care",
+    "mrp": 275.0,
+    "dp": 189.0,
+    "bv": 1.0
+  },
+  {
+    "id": 125,
+    "name": "Haoma Foot Cream 50g",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.6
+  },
+  {
+    "id": 126,
+    "name": "Haoma Lip Balm Natural 10g",
+    "category": "Personal Care",
+    "mrp": 120.0,
+    "dp": 85.0,
+    "bv": 0.3
+  },
+  {
+    "id": 127,
+    "name": "Haoma Under Eye Cream 30g",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 1.5
+  },
+  {
+    "id": 128,
+    "name": "Haoma Body Scrub Walnut 100g",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.2
+  },
+  {
+    "id": 129,
+    "name": "Haoma Lemon Soap Pack of 4",
+    "category": "Personal Care",
+    "mrp": 200.0,
+    "dp": 149.0,
+    "bv": 0.8
+  },
+  {
+    "id": 130,
+    "name": "Haoma Sandalwood Soap Pack of 4",
+    "category": "Personal Care",
+    "mrp": 240.0,
+    "dp": 179.0,
+    "bv": 1.0
+  },
+  {
+    "id": 131,
+    "name": "Miakasa Steel Scrubber Pack of 6",
+    "category": "Home Care",
+    "mrp": 100.0,
+    "dp": 75.0,
+    "bv": 0.3
+  },
+  {
+    "id": 132,
+    "name": "Miakasa Floor Wiper Heavy Duty",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 229.0,
+    "bv": 1.2
+  },
+  {
+    "id": 133,
+    "name": "Miakasa Toilet Brush with Holder",
+    "category": "Home Care",
+    "mrp": 250.0,
+    "dp": 189.0,
+    "bv": 1.0
+  },
+  {
+    "id": 134,
+    "name": "Miakasa Dustbin Plastic Pedal 12L",
+    "category": "Home Care",
+    "mrp": 599.0,
+    "dp": 449.0,
+    "bv": 2.5
+  },
+  {
+    "id": 135,
+    "name": "Miakasa Microfiber Cleaning Cloth Set of 4",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 219.0,
+    "bv": 1.0
+  },
+  {
+    "id": 136,
+    "name": "Zeno Men's Formal Blazer Black",
+    "category": "Fashion",
+    "mrp": 4999.0,
+    "dp": 3499.0,
+    "bv": 25.0
+  },
+  {
+    "id": 137,
+    "name": "Zeno Women's Leggings Combo Pack of 3",
+    "category": "Fashion",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 4.5
+  },
+  {
+    "id": 138,
+    "name": "Zeno Men's Trackpants Activewear",
+    "category": "Fashion",
+    "mrp": 1199.0,
+    "dp": 799.0,
+    "bv": 5.0
+  },
+  {
+    "id": 139,
+    "name": "Stivali Men's Leather Wallet Brown",
+    "category": "Fashion Accessories",
+    "mrp": 999.0,
+    "dp": 649.0,
+    "bv": 4.0
+  },
+  {
+    "id": 140,
+    "name": "Stivali Unisex Casual Watch Analog",
+    "category": "Fashion Accessories",
+    "mrp": 2499.0,
+    "dp": 1599.0,
+    "bv": 10.0
+  },
+  {
+    "id": 141,
+    "name": "Sanskruti Brass Akhand Jyoti Diya",
+    "category": "Spiritual & Decor",
+    "mrp": 650.0,
+    "dp": 450.0,
+    "bv": 2.5
+  },
+  {
+    "id": 142,
+    "name": "Sanskruti Pure Sandalwood Tilak Paste 50g",
+    "category": "Spiritual & Decor",
+    "mrp": 299.0,
+    "dp": 210.0,
+    "bv": 1.0
+  },
+  {
+    "id": 143,
+    "name": "Sanskruti Agarbatti Fragrance Collection Box",
+    "category": "Spiritual & Decor",
+    "mrp": 350.0,
+    "dp": 250.0,
+    "bv": 1.5
+  },
+  {
+    "id": 144,
+    "name": "Miakasa Electric Kettle 1.5L Stainless Steel",
+    "category": "Kitchenware",
+    "mrp": 1599.0,
+    "dp": 1199.0,
+    "bv": 8.0
+  },
+  {
+    "id": 145,
+    "name": "Miakasa Induction Cooktop 2000W",
+    "category": "Kitchenware",
+    "mrp": 3299.0,
+    "dp": 2499.0,
+    "bv": 16.0
+  },
+  {
+    "id": 146,
+    "name": "Miakasa Sandwich Maker Grill",
+    "category": "Kitchenware",
+    "mrp": 1999.0,
+    "dp": 1499.0,
+    "bv": 10.0
+  },
+  {
+    "id": 147,
+    "name": "Haoma Immune Care Kwath Syrup 500ml",
+    "category": "Health & Wellness",
+    "mrp": 550.0,
+    "dp": 380.0,
+    "bv": 2.5
+  },
+  {
+    "id": 148,
+    "name": "Haoma Cough Syrup Herbal 100ml",
+    "category": "Health & Wellness",
+    "mrp": 140.0,
+    "dp": 99.0,
+    "bv": 0.5
+  },
+  {
+    "id": 149,
+    "name": "La Rasoi Sona Masuri Rice 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 550.0,
+    "dp": 460.0,
+    "bv": 3.0
+  },
+  {
+    "id": 150,
+    "name": "La Rasoi Toor Dal (Arhar) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 165.0,
+    "dp": 140.0,
+    "bv": 0.8
+  },
+  {
+    "id": 151,
+    "name": "La Rasoi Moong Dal Split 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 128.0,
+    "bv": 0.7
+  },
+  {
+    "id": 152,
+    "name": "La Rasoi Chana Dal 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 120.0,
+    "dp": 102.0,
+    "bv": 0.5
+  },
+  {
+    "id": 153,
+    "name": "La Rasoi Urad Dal Black Whole 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 170.0,
+    "dp": 145.0,
+    "bv": 0.8
+  },
+  {
+    "id": 154,
+    "name": "La Rasoi Masoor Dal Split 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.6
+  },
+  {
+    "id": 155,
+    "name": "La Rasoi Kabuli Chana 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.7
+  },
+  {
+    "id": 156,
+    "name": "La Rasoi Rajma Chitra 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 175.0,
+    "dp": 150.0,
+    "bv": 0.8
+  },
+  {
+    "id": 157,
+    "name": "La Rasoi Groundnut Seeds 500g",
+    "category": "Groceries & Spices",
+    "mrp": 145.0,
+    "dp": 122.0,
+    "bv": 0.6
+  },
+  {
+    "id": 158,
+    "name": "La Rasoi Poha Thin 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 95.0,
+    "dp": 78.0,
+    "bv": 0.3
+  },
+  {
+    "id": 159,
+    "name": "La Rasoi Daliya Special 500g",
+    "category": "Groceries & Spices",
+    "mrp": 55.0,
+    "dp": 45.0,
+    "bv": 0.2
+  },
+  {
+    "id": 160,
+    "name": "La Rasoi Besan (Gram Flour) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.6
+  },
+  {
+    "id": 161,
+    "name": "Haoma Wheat Grass Powder 100g",
+    "category": "Health & Wellness",
+    "mrp": 299.0,
+    "dp": 210.0,
+    "bv": 1.2
+  },
+  {
+    "id": 162,
+    "name": "Haoma Moringa Powder 200g",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 310.0,
+    "bv": 2.0
+  },
+  {
+    "id": 163,
+    "name": "Haoma Spirulina Powder 100g",
+    "category": "Health & Wellness",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 1.8
+  },
+  {
+    "id": 164,
+    "name": "Haoma Stevia Natural Sweetener Drops 15ml",
+    "category": "Health & Wellness",
+    "mrp": 349.0,
+    "dp": 249.0,
+    "bv": 1.5
+  },
+  {
+    "id": 165,
+    "name": "Haoma Apple Cider Vinegar with Mother 500ml",
+    "category": "Health & Wellness",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 166,
+    "name": "Haoma Flax Seed Oil Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 549.0,
+    "bv": 4.0
+  },
+  {
+    "id": 167,
+    "name": "Haoma Evening Primrose Oil Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 168,
+    "name": "Haoma Collagen Builder Powder 200g",
+    "category": "Health & Wellness",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.5
+  },
+  {
+    "id": 169,
+    "name": "Haoma Plant Protein Powder Chocolate 500g",
+    "category": "Health & Wellness",
+    "mrp": 1999.0,
+    "dp": 1499.0,
+    "bv": 11.0
+  },
+  {
+    "id": 170,
+    "name": "Haoma Charcoal Teeth Whitening Powder 50g",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 199.0,
+    "bv": 1.0
+  },
+  {
+    "id": 171,
+    "name": "Haoma Aloevera Neem Face Scrub 100g",
+    "category": "Personal Care",
+    "mrp": 325.0,
+    "dp": 225.0,
+    "bv": 1.1
+  },
+  {
+    "id": 172,
+    "name": "Haoma Tea Tree Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 275.0,
+    "dp": 189.0,
+    "bv": 1.0
+  },
+  {
+    "id": 173,
+    "name": "Haoma Vitamin C Face Serum 30ml",
+    "category": "Personal Care",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 174,
+    "name": "Haoma Retinol Night Cream 50g",
+    "category": "Personal Care",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 175,
+    "name": "Haoma Sunscreen Gel SPF 30 100ml",
+    "category": "Personal Care",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 176,
+    "name": "Haoma Beard Growth Oil 50ml",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 177,
+    "name": "Haoma Hair Removal Cream 100g",
+    "category": "Personal Care",
+    "mrp": 210.0,
+    "dp": 149.0,
+    "bv": 0.8
+  },
+  {
+    "id": 178,
+    "name": "Haoma Intimate Hygiene Wash Women 200ml",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.5
+  },
+  {
+    "id": 179,
+    "name": "Haoma Intimate Hygiene Wash Men 200ml",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.5
+  },
+  {
+    "id": 180,
+    "name": "Miakasa Dishwash Gel Lemon 1L",
+    "category": "Home Care",
+    "mrp": 349.0,
+    "dp": 279.0,
+    "bv": 1.8
+  },
+  {
+    "id": 181,
+    "name": "Miakasa Floor Cleaner Jasmine 5L",
+    "category": "Home Care",
+    "mrp": 1499.0,
+    "dp": 1199.0,
+    "bv": 8.0
+  },
+  {
+    "id": 182,
+    "name": "Miakasa Toilet Cleaner Power 1L",
+    "category": "Home Care",
+    "mrp": 320.0,
+    "dp": 250.0,
+    "bv": 1.5
+  },
+  {
+    "id": 183,
+    "name": "Miakasa Laundry Detergent Powder 2kg",
+    "category": "Home Care",
+    "mrp": 499.0,
+    "dp": 399.0,
+    "bv": 3.0
+  },
+  {
+    "id": 184,
+    "name": "Miakasa Fabric Softener Liquid 1L",
+    "category": "Home Care",
+    "mrp": 399.0,
+    "dp": 319.0,
+    "bv": 2.0
+  },
+  {
+    "id": 185,
+    "name": "Miakasa Stainless Steel Scrub Pad 3N",
+    "category": "Home Care",
+    "mrp": 90.0,
+    "dp": 70.0,
+    "bv": 0.3
+  },
+  {
+    "id": 186,
+    "name": "Miakasa Kitchen Cleaning Wipes 30N",
+    "category": "Home Care",
+    "mrp": 199.0,
+    "dp": 159.0,
+    "bv": 0.8
+  },
+  {
+    "id": 187,
+    "name": "Zeno Men's Cotton Check Shirt",
+    "category": "Fashion",
+    "mrp": 1499.0,
+    "dp": 999.0,
+    "bv": 7.5
+  },
+  {
+    "id": 188,
+    "name": "Zeno Women's Printed Anarkali Kurta",
+    "category": "Fashion",
+    "mrp": 1899.0,
+    "dp": 1299.0,
+    "bv": 9.5
+  },
+  {
+    "id": 189,
+    "name": "Zeno Unisex Winter Hoodie",
+    "category": "Fashion",
+    "mrp": 2299.0,
+    "dp": 1599.0,
+    "bv": 11.0
+  },
+  {
+    "id": 190,
+    "name": "Stivali Men's Slip-On Casual Shoes",
+    "category": "Footwear",
+    "mrp": 2499.0,
+    "dp": 1699.0,
+    "bv": 12.0
+  },
+  {
+    "id": 191,
+    "name": "Stivali Women's Belly Shoes Comfortable",
+    "category": "Footwear",
+    "mrp": 1799.0,
+    "dp": 1199.0,
+    "bv": 8.5
+  },
+  {
+    "id": 192,
+    "name": "Stivali Unisex Sports Running Shoes",
+    "category": "Footwear",
+    "mrp": 2999.0,
+    "dp": 1999.0,
+    "bv": 14.0
+  },
+  {
+    "id": 193,
+    "name": "Sanskruti Brass Pooja Bell (Ghanta)",
+    "category": "Spiritual & Decor",
+    "mrp": 450.0,
+    "dp": 310.0,
+    "bv": 2.0
+  },
+  {
+    "id": 194,
+    "name": "Sanskruti Camphor (Kapoor) Cone 100g",
+    "category": "Spiritual & Decor",
+    "mrp": 220.0,
+    "dp": 160.0,
+    "bv": 0.8
+  },
+  {
+    "id": 195,
+    "name": "Sanskruti Wooden Incense Stick Holder",
+    "category": "Spiritual & Decor",
+    "mrp": 150.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 196,
+    "name": "Miakasa Copper Water Jug 1L",
+    "category": "Kitchenware",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 197,
+    "name": "Miakasa Casserole Insulated 2L",
+    "category": "Kitchenware",
+    "mrp": 999.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 198,
+    "name": "Miakasa Lunch Box Stainless Steel 3-Tier",
+    "category": "Kitchenware",
+    "mrp": 1199.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 199,
+    "name": "La Rasoi Black Salt Granules 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.6
+  },
+  {
+    "id": 200,
+    "name": "La Rasoi White Salt Iodised 1kg Pack of 3",
+    "category": "Groceries & Spices",
+    "mrp": 75.0,
+    "dp": 60.0,
+    "bv": 0.3
+  },
+  {
+    "id": 201,
+    "name": "Haoma Wheatgrass Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 202,
+    "name": "Haoma Alfalfa Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 549.0,
+    "dp": 389.0,
+    "bv": 2.8
+  },
+  {
+    "id": 203,
+    "name": "Haoma B-Complex Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 204,
+    "name": "Haoma Zinc Magnesium Aspartate (ZMA) 60N",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 205,
+    "name": "Haoma L-Carnitine Liquid 500ml",
+    "category": "Health & Wellness",
+    "mrp": 1499.0,
+    "dp": 1049.0,
+    "bv": 7.5
+  },
+  {
+    "id": 206,
+    "name": "Haoma Mass Gainer Powder Vanilla 1kg",
+    "category": "Health & Wellness",
+    "mrp": 2199.0,
+    "dp": 1649.0,
+    "bv": 12.0
+  },
+  {
+    "id": 207,
+    "name": "Haoma Whey Protein Isolate 1kg",
+    "category": "Health & Wellness",
+    "mrp": 3999.0,
+    "dp": 2999.0,
+    "bv": 22.0
+  },
+  {
+    "id": 208,
+    "name": "Haoma Creatine Monohydrate Powder 250g",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 209,
+    "name": "Haoma BCAA Powder 250g",
+    "category": "Health & Wellness",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.5
+  },
+  {
+    "id": 210,
+    "name": "Haoma Kidneys Care Juice 1L",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 211,
+    "name": "La Rasoi Fennel Seeds (Saunf) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 180.0,
+    "dp": 150.0,
+    "bv": 0.8
+  },
+  {
+    "id": 212,
+    "name": "La Rasoi Flax Seeds (Alsi) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 213,
+    "name": "La Rasoi Chia Seeds 250g",
+    "category": "Groceries & Spices",
+    "mrp": 299.0,
+    "dp": 249.0,
+    "bv": 1.5
+  },
+  {
+    "id": 214,
+    "name": "La Rasoi Sunflower Seeds 250g",
+    "category": "Groceries & Spices",
+    "mrp": 250.0,
+    "dp": 210.0,
+    "bv": 1.2
+  },
+  {
+    "id": 215,
+    "name": "La Rasoi Pumpkin Seeds 250g",
+    "category": "Groceries & Spices",
+    "mrp": 320.0,
+    "dp": 269.0,
+    "bv": 1.6
+  },
+  {
+    "id": 216,
+    "name": "La Rasoi Mixed Dry Fruits 500g Pack",
+    "category": "Groceries & Spices",
+    "mrp": 799.0,
+    "dp": 689.0,
+    "bv": 4.5
+  },
+  {
+    "id": 217,
+    "name": "La Rasoi Cashews W320 250g",
+    "category": "Groceries & Spices",
+    "mrp": 399.0,
+    "dp": 349.0,
+    "bv": 2.0
+  },
+  {
+    "id": 218,
+    "name": "La Rasoi Almonds California 250g",
+    "category": "Groceries & Spices",
+    "mrp": 350.0,
+    "dp": 299.0,
+    "bv": 1.8
+  },
+  {
+    "id": 219,
+    "name": "La Rasoi Raisins (Kishmish) 250g",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 129.0,
+    "bv": 0.7
+  },
+  {
+    "id": 220,
+    "name": "La Rasoi Walnut Kernels 200g",
+    "category": "Groceries & Spices",
+    "mrp": 450.0,
+    "dp": 389.0,
+    "bv": 2.5
+  },
+  {
+    "id": 221,
+    "name": "Haoma Baby Massage Oil 200ml",
+    "category": "Personal Care",
+    "mrp": 350.0,
+    "dp": 245.0,
+    "bv": 1.5
+  },
+  {
+    "id": 222,
+    "name": "Haoma Baby Bath Soap 75g Pack of 3",
+    "category": "Personal Care",
+    "mrp": 225.0,
+    "dp": 159.0,
+    "bv": 1.0
+  },
+  {
+    "id": 223,
+    "name": "Haoma Baby Shampoo Gentle 200ml",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.2
+  },
+  {
+    "id": 224,
+    "name": "Haoma Baby Powder Gentle 200g",
+    "category": "Personal Care",
+    "mrp": 210.0,
+    "dp": 149.0,
+    "bv": 0.8
+  },
+  {
+    "id": 225,
+    "name": "Haoma Aloe Vera Cold Cream 100g",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.7
+  },
+  {
+    "id": 226,
+    "name": "Haoma Petroleum Jelly Pure 100g",
+    "category": "Personal Care",
+    "mrp": 120.0,
+    "dp": 85.0,
+    "bv": 0.4
+  },
+  {
+    "id": 227,
+    "name": "Haoma Anti-Wrinkle Cream 50g",
+    "category": "Personal Care",
+    "mrp": 799.0,
+    "dp": 559.0,
+    "bv": 4.0
+  },
+  {
+    "id": 228,
+    "name": "Haoma Daily Fresh Shower Gel 250ml",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.5
+  },
+  {
+    "id": 229,
+    "name": "Haoma Refreshing Deodorant Spray 150ml",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 230,
+    "name": "Haoma Herbal Mouthwash 250ml",
+    "category": "Personal Care",
+    "mrp": 220.0,
+    "dp": 155.0,
+    "bv": 0.9
+  },
+  {
+    "id": 231,
+    "name": "Miakasa Disinfectant Surface Spray 500ml",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 239.0,
+    "bv": 1.5
+  },
+  {
+    "id": 232,
+    "name": "Miakasa Carpet Cleaner Liquid 500ml",
+    "category": "Home Care",
+    "mrp": 399.0,
+    "dp": 319.0,
+    "bv": 2.0
+  },
+  {
+    "id": 233,
+    "name": "Miakasa Steel Wool Pad Large 5N",
+    "category": "Home Care",
+    "mrp": 110.0,
+    "dp": 85.0,
+    "bv": 0.4
+  },
+  {
+    "id": 234,
+    "name": "Miakasa Garbage Bags Medium 30N Roll",
+    "category": "Home Care",
+    "mrp": 180.0,
+    "dp": 140.0,
+    "bv": 0.8
+  },
+  {
+    "id": 235,
+    "name": "Miakasa Garbage Bags Large 30N Roll",
+    "category": "Home Care",
+    "mrp": 240.0,
+    "dp": 189.0,
+    "bv": 1.0
+  },
+  {
+    "id": 236,
+    "name": "Zeno Men's Formal Trousers Navy Blue",
+    "category": "Fashion",
+    "mrp": 2199.0,
+    "dp": 1499.0,
+    "bv": 12.0
+  },
+  {
+    "id": 237,
+    "name": "Zeno Women's Cotton Salwar Suit Material",
+    "category": "Fashion",
+    "mrp": 1699.0,
+    "dp": 1199.0,
+    "bv": 8.5
+  },
+  {
+    "id": 238,
+    "name": "Zeno Kids Casual T-Shirt Combo",
+    "category": "Fashion",
+    "mrp": 899.0,
+    "dp": 599.0,
+    "bv": 4.0
+  },
+  {
+    "id": 239,
+    "name": "Stivali Men's Formal Belt Genuine Leather",
+    "category": "Fashion Accessories",
+    "mrp": 1299.0,
+    "dp": 849.0,
+    "bv": 6.0
+  },
+  {
+    "id": 240,
+    "name": "Stivali Women's Designer Handbag",
+    "category": "Fashion Accessories",
+    "mrp": 3499.0,
+    "dp": 2299.0,
+    "bv": 16.0
+  },
+  {
+    "id": 241,
+    "name": "Sanskruti Brass Diya Set of 5",
+    "category": "Spiritual & Decor",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.0
+  },
+  {
+    "id": 242,
+    "name": "Sanskruti Premium Hawan Samagri 500g",
+    "category": "Spiritual & Decor",
+    "mrp": 250.0,
+    "dp": 180.0,
+    "bv": 1.0
+  },
+  {
+    "id": 243,
+    "name": "Sanskruti Cotton Wick Long Batti 500g",
+    "category": "Spiritual & Decor",
+    "mrp": 199.0,
+    "dp": 140.0,
+    "bv": 0.8
+  },
+  {
+    "id": 244,
+    "name": "Miakasa Non-Tava Dosa Tawa 28cm",
+    "category": "Kitchenware",
+    "mrp": 1299.0,
+    "dp": 949.0,
+    "bv": 7.0
+  },
+  {
+    "id": 245,
+    "name": "Miakasa Stainless Steel Idli Maker",
+    "category": "Kitchenware",
+    "mrp": 1499.0,
+    "dp": 1099.0,
+    "bv": 8.0
+  },
+  {
+    "id": 246,
+    "name": "Miakasa Multi-Utility Container Set of 6",
+    "category": "Kitchenware",
+    "mrp": 999.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 247,
+    "name": "Haoma Immunity Plus Kadha Powder 200g",
+    "category": "Health & Wellness",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 248,
+    "name": "Haoma Heart Care Syrup 500ml",
+    "category": "Health & Wellness",
+    "mrp": 950.0,
+    "dp": 665.0,
+    "bv": 5.0
+  },
+  {
+    "id": 249,
+    "name": "La Rasoi Puffed Rice (Murmura) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 75.0,
+    "dp": 60.0,
+    "bv": 0.2
+  },
+  {
+    "id": 250,
+    "name": "La Rasoi Sabudana (Tapioca Pearls) 500g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 92.0,
+    "bv": 0.4
+  },
+  {
+    "id": 251,
+    "name": "Haoma Melatonin Sleep Support Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 559.0,
+    "bv": 4.0
+  },
+  {
+    "id": 252,
+    "name": "Haoma Eye Care Herbal Drops 15ml",
+    "category": "Health & Wellness",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 253,
+    "name": "Haoma L-Glutathione Skin Glow Tablets 30N",
+    "category": "Health & Wellness",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.5
+  },
+  {
+    "id": 254,
+    "name": "Haoma Anti-Aging Collagen Drink Mix 200g",
+    "category": "Health & Wellness",
+    "mrp": 1499.0,
+    "dp": 1049.0,
+    "bv": 7.5
+  },
+  {
+    "id": 255,
+    "name": "Haoma Thyro-Care Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 256,
+    "name": "Haoma Liver Detox Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 849.0,
+    "dp": 589.0,
+    "bv": 4.2
+  },
+  {
+    "id": 257,
+    "name": "Haoma Prostate Care Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 949.0,
+    "dp": 665.0,
+    "bv": 4.8
+  },
+  {
+    "id": 258,
+    "name": "Haoma Women's Hormone Balance Syrup 500ml",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 559.0,
+    "bv": 4.0
+  },
+  {
+    "id": 259,
+    "name": "Haoma Cleanse & Detox Tea 25 Bags",
+    "category": "Health & Wellness",
+    "mrp": 425.0,
+    "dp": 299.0,
+    "bv": 2.1
+  },
+  {
+    "id": 260,
+    "name": "Haoma Organic Apple Cider Vinegar Gummies 30N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 261,
+    "name": "La Rasoi Organic Brown Rice 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 750.0,
+    "dp": 629.0,
+    "bv": 4.2
+  },
+  {
+    "id": 262,
+    "name": "La Rasoi Organic Quinoa 500g",
+    "category": "Groceries & Spices",
+    "mrp": 350.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 263,
+    "name": "La Rasoi Organic Rolled Oats 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 320.0,
+    "dp": 269.0,
+    "bv": 1.8
+  },
+  {
+    "id": 264,
+    "name": "La Rasoi Peanut Butter Crunchy 500g Jar",
+    "category": "Groceries & Spices",
+    "mrp": 399.0,
+    "dp": 339.0,
+    "bv": 2.2
+  },
+  {
+    "id": 265,
+    "name": "La Rasoi Peanut Butter Creamy 500g Jar",
+    "category": "Groceries & Spices",
+    "mrp": 399.0,
+    "dp": 339.0,
+    "bv": 2.2
+  },
+  {
+    "id": 266,
+    "name": "La Rasoi Mixed Fruit Jam 500g",
+    "category": "Groceries & Spices",
+    "mrp": 190.0,
+    "dp": 160.0,
+    "bv": 0.9
+  },
+  {
+    "id": 267,
+    "name": "La Rasoi Tomato Ketchup Squeeze Bottle 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 210.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 268,
+    "name": "La Rasoi Red Chilli Sauce 500g",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 125.0,
+    "bv": 0.7
+  },
+  {
+    "id": 269,
+    "name": "La Rasoi Green Chilli Sauce 500g",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 125.0,
+    "bv": 0.7
+  },
+  {
+    "id": 270,
+    "name": "La Rasoi Soy Sauce Dark 500ml",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.7
+  },
+  {
+    "id": 271,
+    "name": "Haoma Keratin Hair Mask 200g",
+    "category": "Personal Care",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 272,
+    "name": "Haoma Argan Hair Serum 100ml",
+    "category": "Personal Care",
+    "mrp": 450.0,
+    "dp": 315.0,
+    "bv": 2.2
+  },
+  {
+    "id": 273,
+    "name": "Haoma Ubtan Face Scrub 100g",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.7
+  },
+  {
+    "id": 274,
+    "name": "Haoma Ubtan Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.5
+  },
+  {
+    "id": 275,
+    "name": "Haoma Gold Facial Kit Single Use",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 276,
+    "name": "Haoma Diamond Facial Kit Single Use",
+    "category": "Personal Care",
+    "mrp": 449.0,
+    "dp": 315.0,
+    "bv": 2.2
+  },
+  {
+    "id": 277,
+    "name": "Haoma Aloe Vera Hydrating Sheet Mask 3N",
+    "category": "Personal Care",
+    "mrp": 300.0,
+    "dp": 210.0,
+    "bv": 1.5
+  },
+  {
+    "id": 278,
+    "name": "Haoma Men Active Energy Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 275.0,
+    "dp": 189.0,
+    "bv": 1.3
+  },
+  {
+    "id": 279,
+    "name": "Haoma Charcoal Bath Soap Pack of 4",
+    "category": "Personal Care",
+    "mrp": 280.0,
+    "dp": 199.0,
+    "bv": 1.4
+  },
+  {
+    "id": 280,
+    "name": "Haoma Natural Neem & Tea Tree Soap Pack of 4",
+    "category": "Personal Care",
+    "mrp": 260.0,
+    "dp": 185.0,
+    "bv": 1.3
+  },
+  {
+    "id": 281,
+    "name": "Miakasa Stainless Steel Water Bottle 750ml",
+    "category": "Kitchenware",
+    "mrp": 799.0,
+    "dp": 599.0,
+    "bv": 4.0
+  },
+  {
+    "id": 282,
+    "name": "Miakasa Insulated Lunch Box Bag Set",
+    "category": "Kitchenware",
+    "mrp": 899.0,
+    "dp": 649.0,
+    "bv": 4.5
+  },
+  {
+    "id": 283,
+    "name": "Miakasa Glass Storage Container Set of 3",
+    "category": "Kitchenware",
+    "mrp": 1199.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 284,
+    "name": "Miakasa Silicone Kitchen Spatula & Brush Set",
+    "category": "Kitchenware",
+    "mrp": 399.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 285,
+    "name": "Miakasa Heavy Duty Pressure Cooker 5L",
+    "category": "Kitchenware",
+    "mrp": 2799.0,
+    "dp": 2099.0,
+    "bv": 14.0
+  },
+  {
+    "id": 286,
+    "name": "Zeno Women's Casual Denim Jacket",
+    "category": "Fashion",
+    "mrp": 2799.0,
+    "dp": 1899.0,
+    "bv": 13.0
+  },
+  {
+    "id": 287,
+    "name": "Zeno Men's Casual Cotton Shorts Combo",
+    "category": "Fashion",
+    "mrp": 1199.0,
+    "dp": 799.0,
+    "bv": 5.5
+  },
+  {
+    "id": 288,
+    "name": "Zeno Kids Party Wear Frock",
+    "category": "Fashion",
+    "mrp": 1499.0,
+    "dp": 999.0,
+    "bv": 7.0
+  },
+  {
+    "id": 289,
+    "name": "Stivali Men's Sports Sandals",
+    "category": "Footwear",
+    "mrp": 1699.0,
+    "dp": 1149.0,
+    "bv": 8.0
+  },
+  {
+    "id": 290,
+    "name": "Stivali Women's Ethnic Juttis",
+    "category": "Footwear",
+    "mrp": 1299.0,
+    "dp": 849.0,
+    "bv": 6.0
+  },
+  {
+    "id": 291,
+    "name": "Sanskruti Metal Wall Hanging Om Symbol",
+    "category": "Spiritual & Decor",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 292,
+    "name": "Sanskruti Brass Kamdhenu Cow and Calf Idol",
+    "category": "Spiritual & Decor",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.5
+  },
+  {
+    "id": 293,
+    "name": "Sanskruti Pure Loban Powder 250g",
+    "category": "Spiritual & Decor",
+    "mrp": 210.0,
+    "dp": 150.0,
+    "bv": 1.0
+  },
+  {
+    "id": 294,
+    "name": "Miakasa Floor Mop with Bucket Spin System",
+    "category": "Home Care",
+    "mrp": 1899.0,
+    "dp": 1399.0,
+    "bv": 9.5
+  },
+  {
+    "id": 295,
+    "name": "Miakasa Multi-Purpose Storage Basket Plastic",
+    "category": "Home Care",
+    "mrp": 450.0,
+    "dp": 349.0,
+    "bv": 2.4
+  },
+  {
+    "id": 296,
+    "name": "Miakasa Clothes Drying Stand Foldable Steel",
+    "category": "Home Care",
+    "mrp": 2999.0,
+    "dp": 2199.0,
+    "bv": 15.0
+  },
+  {
+    "id": 297,
+    "name": "Haoma Joint & Muscle Relief Liniment Oil 100ml",
+    "category": "Health & Wellness",
+    "mrp": 380.0,
+    "dp": 265.0,
+    "bv": 1.8
+  },
+  {
+    "id": 298,
+    "name": "Haoma Complete Family Health Tonic 750ml",
+    "category": "Health & Wellness",
+    "mrp": 850.0,
+    "dp": 599.0,
+    "bv": 4.2
+  },
+  {
+    "id": 299,
+    "name": "La Rasoi Black Pepper Powder 100g",
+    "category": "Groceries & Spices",
+    "mrp": 170.0,
+    "dp": 145.0,
+    "bv": 0.8
+  },
+  {
+    "id": 300,
+    "name": "La Rasoi Dry Mango Powder (Amchur) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 95.0,
+    "dp": 80.0,
+    "bv": 0.4
+  },
+  {
+    "id": 351,
+    "name": "Haoma Probiotics Acidophilus Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 352,
+    "name": "Haoma Saw Palmetto Extract Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 353,
+    "name": "Haoma Cranberry Extract Urinary Tract Support 60N",
+    "category": "Health & Wellness",
+    "mrp": 849.0,
+    "dp": 589.0,
+    "bv": 4.2
+  },
+  {
+    "id": 354,
+    "name": "Haoma Coenzyme Q10 Capsules 30N",
+    "category": "Health & Wellness",
+    "mrp": 1199.0,
+    "dp": 839.0,
+    "bv": 6.0
+  },
+  {
+    "id": 355,
+    "name": "Haoma Omega-3 Fish Oil 1000mg 60N",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 356,
+    "name": "Haoma Glucosamine Chondroitin Joint Support 60N",
+    "category": "Health & Wellness",
+    "mrp": 1099.0,
+    "dp": 769.0,
+    "bv": 5.5
+  },
+  {
+    "id": 357,
+    "name": "Haoma Calcium Magnesium Zinc & Vitamin D3 60N",
+    "category": "Health & Wellness",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 358,
+    "name": "Haoma Iron & Folic Acid Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 359,
+    "name": "Haoma Spirulina & Moringa Blend Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 549.0,
+    "dp": 385.0,
+    "bv": 2.7
+  },
+  {
+    "id": 360,
+    "name": "Haoma Green Tea Extract Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 361,
+    "name": "La Rasoi Star Anise (Chakra Phool) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 250.0,
+    "dp": 210.0,
+    "bv": 1.2
+  },
+  {
+    "id": 362,
+    "name": "La Rasoi Cinnamon Sticks (Dalchini) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 180.0,
+    "dp": 150.0,
+    "bv": 0.8
+  },
+  {
+    "id": 363,
+    "name": "La Rasoi Cloves (Laung) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 320.0,
+    "dp": 275.0,
+    "bv": 1.4
+  },
+  {
+    "id": 364,
+    "name": "La Rasoi Bay Leaves (Tejpatta) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 90.0,
+    "dp": 75.0,
+    "bv": 0.3
+  },
+  {
+    "id": 365,
+    "name": "La Rasoi Fennel Powder (Saunf Powder) 200g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 92.0,
+    "bv": 0.4
+  },
+  {
+    "id": 366,
+    "name": "La Rasoi Dry Ginger Powder (Sonth) 200g",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 367,
+    "name": "La Rasoi White Sesame Seeds (Safed Til) 250g",
+    "category": "Groceries & Spices",
+    "mrp": 120.0,
+    "dp": 100.0,
+    "bv": 0.5
+  },
+  {
+    "id": 368,
+    "name": "La Rasoi Black Sesame Seeds (Kala Til) 250g",
+    "category": "Groceries & Spices",
+    "mrp": 130.0,
+    "dp": 110.0,
+    "bv": 0.5
+  },
+  {
+    "id": 369,
+    "name": "La Rasoi Poppy Seeds (Khas Khas) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 399.0,
+    "dp": 349.0,
+    "bv": 2.0
+  },
+  {
+    "id": 370,
+    "name": "La Rasoi Watermelon Seeds 250g",
+    "category": "Groceries & Spices",
+    "mrp": 210.0,
+    "dp": 179.0,
+    "bv": 0.9
+  },
+  {
+    "id": 371,
+    "name": "Haoma Brightening Vitamin C Peel-Off Mask 100g",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 372,
+    "name": "Haoma Deep Cleansing Mud Mask 100g",
+    "category": "Personal Care",
+    "mrp": 425.0,
+    "dp": 299.0,
+    "bv": 2.1
+  },
+  {
+    "id": 373,
+    "name": "Haoma Anti-Acne Spot Gel 20g",
+    "category": "Personal Care",
+    "mrp": 249.0,
+    "dp": 175.0,
+    "bv": 1.2
+  },
+  {
+    "id": 374,
+    "name": "Haoma Under Eye Gel with Roller 15ml",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 375,
+    "name": "Haoma Lip Scrub Exfoliating 15g",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.9
+  },
+  {
+    "id": 376,
+    "name": "Haoma Rose Water Toner 200ml",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.5
+  },
+  {
+    "id": 377,
+    "name": "Haoma Aloe Vera Gel 99% Pure 250g",
+    "category": "Personal Care",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.5
+  },
+  {
+    "id": 378,
+    "name": "Haoma Herbal Hair Color Black 100g",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.9
+  },
+  {
+    "id": 379,
+    "name": "Haoma Herbal Hair Color Dark Brown 100g",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.9
+  },
+  {
+    "id": 380,
+    "name": "Haoma Body Butter Cocoa & Shea 200g",
+    "category": "Personal Care",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 381,
+    "name": "Miakasa Stainless Steel Colander Strainer 24cm",
+    "category": "Kitchenware",
+    "mrp": 699.0,
+    "dp": 499.0,
+    "bv": 3.5
+  },
+  {
+    "id": 382,
+    "name": "Miakasa Silicone Dish Drying Mat",
+    "category": "Kitchenware",
+    "mrp": 499.0,
+    "dp": 369.0,
+    "bv": 2.5
+  },
+  {
+    "id": 383,
+    "name": "Miakasa Insulated Water Jug 2L",
+    "category": "Kitchenware",
+    "mrp": 1299.0,
+    "dp": 949.0,
+    "bv": 6.5
+  },
+  {
+    "id": 384,
+    "name": "Miakasa Heavy Duty Kitchen Scissors",
+    "category": "Kitchenware",
+    "mrp": 399.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 385,
+    "name": "Miakasa Garlic Press Stainless Steel",
+    "category": "Kitchenware",
+    "mrp": 299.0,
+    "dp": 219.0,
+    "bv": 1.5
+  },
+  {
+    "id": 386,
+    "name": "Zeno Men's Casual Linen Shirt",
+    "category": "Fashion",
+    "mrp": 1699.0,
+    "dp": 1149.0,
+    "bv": 8.0
+  },
+  {
+    "id": 387,
+    "name": "Zeno Women's Embroidered Party Wear Kurti",
+    "category": "Fashion",
+    "mrp": 1599.0,
+    "dp": 1099.0,
+    "bv": 7.5
+  },
+  {
+    "id": 388,
+    "name": "Zeno Unisex Cotton Bomber Jacket",
+    "category": "Fashion",
+    "mrp": 2499.0,
+    "dp": 1699.0,
+    "bv": 12.0
+  },
+  {
+    "id": 389,
+    "name": "Stivali Men's Formal Leather Shoes",
+    "category": "Footwear",
+    "mrp": 3499.0,
+    "dp": 2399.0,
+    "bv": 16.0
+  },
+  {
+    "id": 390,
+    "name": "Stivali Women's Casual Canvas Shoes",
+    "category": "Footwear",
+    "mrp": 1499.0,
+    "dp": 999.0,
+    "bv": 7.0
+  },
+  {
+    "id": 391,
+    "name": "Sanskruti Brass Pooja Thali Set 7 Pieces",
+    "category": "Spiritual & Decor",
+    "mrp": 1499.0,
+    "dp": 1049.0,
+    "bv": 7.5
+  },
+  {
+    "id": 392,
+    "name": "Sanskruti Premium Sandalwood Agarbatti 200g",
+    "category": "Spiritual & Decor",
+    "mrp": 220.0,
+    "dp": 160.0,
+    "bv": 1.0
+  },
+  {
+    "id": 393,
+    "name": "Sanskruti Brass Chowki for Deity Idol",
+    "category": "Spiritual & Decor",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 394,
+    "name": "Miakasa Dishwash Liquid Dispenser with Sponge Holder",
+    "category": "Home Care",
+    "mrp": 450.0,
+    "dp": 349.0,
+    "bv": 2.4
+  },
+  {
+    "id": 395,
+    "name": "Miakasa Multipurpose Cleaning Brush Set 3N",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 229.0,
+    "bv": 1.5
+  },
+  {
+    "id": 396,
+    "name": "Miakasa Extendable Window Glass Cleaner Wiper",
+    "category": "Home Care",
+    "mrp": 699.0,
+    "dp": 499.0,
+    "bv": 3.5
+  },
+  {
+    "id": 397,
+    "name": "Haoma Herbal Hair Vitalizer Tonic 100ml",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 398,
+    "name": "Haoma Natural Digestion Care Syrup 450ml",
+    "category": "Health & Wellness",
+    "mrp": 325.0,
+    "dp": 225.0,
+    "bv": 1.6
+  },
+  {
+    "id": 399,
+    "name": "La Rasoi Saffron (Kesar) Premium 1g",
+    "category": "Groceries & Spices",
+    "mrp": 499.0,
+    "dp": 429.0,
+    "bv": 3.0
+  },
+  {
+    "id": 400,
+    "name": "La Rasoi Hing (Asafoetida) Compounded 50g",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 129.0,
+    "bv": 0.7
+  },
+  {
+    "id": 401,
+    "name": "Haoma Organic Spirulina Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 402,
+    "name": "Haoma Pure Moringa Capsules 60N",
+    "category": "Health & Wellness",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 403,
+    "name": "Haoma Wheatgrass Juice with Honey 500ml",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 315.0,
+    "bv": 2.2
+  },
+  {
+    "id": 404,
+    "name": "Haoma Aloe Vera Juice with Fiber 1L",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 405,
+    "name": "Haoma Amla Juice Pure 1L",
+    "category": "Health & Wellness",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 406,
+    "name": "Haoma Karela Jamun Juice 1L",
+    "category": "Health & Wellness",
+    "mrp": 450.0,
+    "dp": 315.0,
+    "bv": 2.2
+  },
+  {
+    "id": 407,
+    "name": "Haoma Giloy Juice with Tulsi 1L",
+    "category": "Health & Wellness",
+    "mrp": 425.0,
+    "dp": 299.0,
+    "bv": 2.1
+  },
+  {
+    "id": 408,
+    "name": "Haoma Stone Care Juice 1L",
+    "category": "Health & Wellness",
+    "mrp": 899.0,
+    "dp": 629.0,
+    "bv": 4.5
+  },
+  {
+    "id": 409,
+    "name": "Haoma Triphala Juice 1L",
+    "category": "Health & Wellness",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 410,
+    "name": "Haoma Noni Juice with Garcinia 500ml",
+    "category": "Health & Wellness",
+    "mrp": 799.0,
+    "dp": 559.0,
+    "bv": 4.0
+  },
+  {
+    "id": 411,
+    "name": "La Rasoi Basmati Rice Premium 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 899.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 412,
+    "name": "La Rasoi Kolam Rice Daily Use 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 550.0,
+    "dp": 469.0,
+    "bv": 3.1
+  },
+  {
+    "id": 413,
+    "name": "La Rasoi Sona Masuri Rice 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 499.0,
+    "dp": 419.0,
+    "bv": 2.8
+  },
+  {
+    "id": 414,
+    "name": "La Rasoi Whole Wheat Atta 10kg",
+    "category": "Groceries & Spices",
+    "mrp": 450.0,
+    "dp": 389.0,
+    "bv": 2.5
+  },
+  {
+    "id": 415,
+    "name": "La Rasoi Multigrain Atta 5kg",
+    "category": "Groceries & Spices",
+    "mrp": 320.0,
+    "dp": 275.0,
+    "bv": 1.8
+  },
+  {
+    "id": 416,
+    "name": "La Rasoi Refined Maida 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 70.0,
+    "dp": 58.0,
+    "bv": 0.3
+  },
+  {
+    "id": 417,
+    "name": "La Rasoi Sooji Rava 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 80.0,
+    "dp": 68.0,
+    "bv": 0.3
+  },
+  {
+    "id": 418,
+    "name": "La Rasoi White Poha Medium 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 90.0,
+    "dp": 75.0,
+    "bv": 0.3
+  },
+  {
+    "id": 419,
+    "name": "La Rasoi Roasted Chana Dal 500g",
+    "category": "Groceries & Spices",
+    "mrp": 95.0,
+    "dp": 80.0,
+    "bv": 0.4
+  },
+  {
+    "id": 420,
+    "name": "La Rasoi White Chana (Kabuli) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.7
+  },
+  {
+    "id": 421,
+    "name": "Haoma Charcoal Peel-Off Mask 100g",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.7
+  },
+  {
+    "id": 422,
+    "name": "Haoma Vitamin C Brightening Face Scrub 100g",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 423,
+    "name": "Haoma Retinol Anti-Aging Serum 30ml",
+    "category": "Personal Care",
+    "mrp": 699.0,
+    "dp": 489.0,
+    "bv": 3.5
+  },
+  {
+    "id": 424,
+    "name": "Haoma Hyaluronic Acid Hydrating Serum 30ml",
+    "category": "Personal Care",
+    "mrp": 649.0,
+    "dp": 455.0,
+    "bv": 3.2
+  },
+  {
+    "id": 425,
+    "name": "Haoma Salicylic Acid Anti-Acne Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 325.0,
+    "dp": 225.0,
+    "bv": 1.6
+  },
+  {
+    "id": 426,
+    "name": "Haoma Daily Moisturizing Body Lotion 400ml",
+    "category": "Personal Care",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 427,
+    "name": "Haoma Intensive Repair Hand Cream 75g",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.2
+  },
+  {
+    "id": 428,
+    "name": "Haoma Shea Butter Foot Cream 75g",
+    "category": "Personal Care",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.2
+  },
+  {
+    "id": 429,
+    "name": "Haoma Herbal Hair Tonic Spray 100ml",
+    "category": "Personal Care",
+    "mrp": 450.0,
+    "dp": 315.0,
+    "bv": 2.2
+  },
+  {
+    "id": 430,
+    "name": "Haoma Tea Tree Essential Oil 15ml",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.7
+  },
+  {
+    "id": 431,
+    "name": "Miakasa Stainless Steel Mixing Bowl Set of 3",
+    "category": "Kitchenware",
+    "mrp": 999.0,
+    "dp": 749.0,
+    "bv": 5.0
+  },
+  {
+    "id": 432,
+    "name": "Miakasa Silicone Spatula Set 4N",
+    "category": "Kitchenware",
+    "mrp": 499.0,
+    "dp": 369.0,
+    "bv": 2.5
+  },
+  {
+    "id": 433,
+    "name": "Miakasa Stainless Steel Grater 4-Sided",
+    "category": "Kitchenware",
+    "mrp": 399.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 434,
+    "name": "Miakasa Non-Stick Appe Pan with Lid",
+    "category": "Kitchenware",
+    "mrp": 899.0,
+    "dp": 649.0,
+    "bv": 4.5
+  },
+  {
+    "id": 435,
+    "name": "Miakasa Gas Stove Lighter Stainless Steel",
+    "category": "Kitchenware",
+    "mrp": 199.0,
+    "dp": 149.0,
+    "bv": 1.0
+  },
+  {
+    "id": 436,
+    "name": "Zeno Men's Cotton Casual Shirt Solid",
+    "category": "Fashion",
+    "mrp": 1399.0,
+    "dp": 949.0,
+    "bv": 7.0
+  },
+  {
+    "id": 437,
+    "name": "Zeno Women's Rayon Kurta Palazzo Set",
+    "category": "Fashion",
+    "mrp": 2199.0,
+    "dp": 1499.0,
+    "bv": 11.0
+  },
+  {
+    "id": 438,
+    "name": "Zeno Kids Winter Fleece Sweatshirt",
+    "category": "Fashion",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 5.0
+  },
+  {
+    "id": 439,
+    "name": "Stivali Men's Running Sports Shoes",
+    "category": "Footwear",
+    "mrp": 2499.0,
+    "dp": 1699.0,
+    "bv": 12.0
+  },
+  {
+    "id": 440,
+    "name": "Stivali Women's Walking Slip-On Shoes",
+    "category": "Footwear",
+    "mrp": 1799.0,
+    "dp": 1199.0,
+    "bv": 8.5
+  },
+  {
+    "id": 441,
+    "name": "Sanskruti Brass Akhand Diya Large",
+    "category": "Spiritual & Decor",
+    "mrp": 450.0,
+    "dp": 315.0,
+    "bv": 2.0
+  },
+  {
+    "id": 442,
+    "name": "Sanskruti Camphor Tablets Pure 200g Box",
+    "category": "Spiritual & Decor",
+    "mrp": 299.0,
+    "dp": 219.0,
+    "bv": 1.5
+  },
+  {
+    "id": 443,
+    "name": "Sanskruti Wooden Incense Tower Burner",
+    "category": "Spiritual & Decor",
+    "mrp": 350.0,
+    "dp": 245.0,
+    "bv": 1.7
+  },
+  {
+    "id": 444,
+    "name": "Miakasa Floor Wiper Heavy Duty Rubber",
+    "category": "Home Care",
+    "mrp": 349.0,
+    "dp": 269.0,
+    "bv": 1.8
+  },
+  {
+    "id": 445,
+    "name": "Miakasa Toilet Brush with Holder Set",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 229.0,
+    "bv": 1.5
+  },
+  {
+    "id": 446,
+    "name": "Miakasa Dustpan and Broom Cleaning Set",
+    "category": "Home Care",
+    "mrp": 499.0,
+    "dp": 379.0,
+    "bv": 2.5
+  },
+  {
+    "id": 447,
+    "name": "Haoma Natural Digestion Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.5
+  },
+  {
+    "id": 448,
+    "name": "Haoma Herbal Cough Lozenges 20N",
+    "category": "Health & Wellness",
+    "mrp": 99.0,
+    "dp": 75.0,
+    "bv": 0.5
+  },
+  {
+    "id": 449,
+    "name": "La Rasoi Black Pepper Whole 100g",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.7
+  },
+  {
+    "id": 450,
+    "name": "La Rasoi Cumin Powder 200g",
+    "category": "Groceries & Spices",
+    "mrp": 140.0,
+    "dp": 120.0,
+    "bv": 0.6
+  },
+  {
+    "id": 451,
+    "name": "Haoma Organic Spirulina Tablets 100N",
+    "category": "Health & Wellness",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 452,
+    "name": "Haoma Natural Calcium Tablets 60N",
+    "category": "Health & Wellness",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 453,
+    "name": "Haoma Herbal Liver Care Syrup 200ml",
+    "category": "Health & Wellness",
+    "mrp": 299.0,
+    "dp": 209.0,
+    "bv": 1.5
+  },
+  {
+    "id": 454,
+    "name": "Haoma Pure Honey 500g",
+    "category": "Health & Wellness",
+    "mrp": 350.0,
+    "dp": 280.0,
+    "bv": 1.8
+  },
+  {
+    "id": 455,
+    "name": "Haoma Chyawanprash Special 500g",
+    "category": "Health & Wellness",
+    "mrp": 325.0,
+    "dp": 260.0,
+    "bv": 1.7
+  },
+  {
+    "id": 456,
+    "name": "Haoma Herbal Hair Oil 200ml",
+    "category": "Personal Care",
+    "mrp": 349.0,
+    "dp": 245.0,
+    "bv": 1.7
+  },
+  {
+    "id": 457,
+    "name": "Haoma Aloe Vera Gel 150ml",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.9
+  },
+  {
+    "id": 458,
+    "name": "Haoma Neem Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 225.0,
+    "dp": 155.0,
+    "bv": 1.0
+  },
+  {
+    "id": 459,
+    "name": "Haoma Anti-Dandruff Hair Oil 200ml",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 460,
+    "name": "Haoma Herbal Toothpaste 100g",
+    "category": "Personal Care",
+    "mrp": 120.0,
+    "dp": 90.0,
+    "bv": 0.5
+  },
+  {
+    "id": 461,
+    "name": "La Rasoi Moong Dal Chilka 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 140.0,
+    "dp": 120.0,
+    "bv": 0.6
+  },
+  {
+    "id": 462,
+    "name": "La Rasoi Masoor Whole 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 125.0,
+    "dp": 105.0,
+    "bv": 0.5
+  },
+  {
+    "id": 463,
+    "name": "La Rasoi White Matpe Beans (Urad White) 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 160.0,
+    "dp": 135.0,
+    "bv": 0.7
+  },
+  {
+    "id": 464,
+    "name": "La Rasoi Kala Chana 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 95.0,
+    "bv": 0.4
+  },
+  {
+    "id": 465,
+    "name": "La Rasoi Green Moong Whole 1kg",
+    "category": "Groceries & Spices",
+    "mrp": 150.0,
+    "dp": 128.0,
+    "bv": 0.6
+  },
+  {
+    "id": 466,
+    "name": "Miakasa Stainless Steel Dinner Plate Set of 4",
+    "category": "Kitchenware",
+    "mrp": 1199.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 467,
+    "name": "Miakasa Stainless Steel Glass Set of 6",
+    "category": "Kitchenware",
+    "mrp": 799.0,
+    "dp": 599.0,
+    "bv": 4.0
+  },
+  {
+    "id": 468,
+    "name": "Miakasa Stainless Steel Spoon Set 12N",
+    "category": "Kitchenware",
+    "mrp": 399.0,
+    "dp": 299.0,
+    "bv": 2.0
+  },
+  {
+    "id": 469,
+    "name": "Miakasa Insulated Hot Pot Casserole 1.5L",
+    "category": "Kitchenware",
+    "mrp": 899.0,
+    "dp": 679.0,
+    "bv": 4.5
+  },
+  {
+    "id": 470,
+    "name": "Miakasa Non-Stick Kadai with Lid 24cm",
+    "category": "Kitchenware",
+    "mrp": 1299.0,
+    "dp": 949.0,
+    "bv": 6.5
+  },
+  {
+    "id": 471,
+    "name": "Zeno Men's Cotton Track Pants",
+    "category": "Fashion",
+    "mrp": 1199.0,
+    "dp": 799.0,
+    "bv": 5.5
+  },
+  {
+    "id": 472,
+    "name": "Zeno Women's Regular Fit Jeans",
+    "category": "Fashion",
+    "mrp": 1999.0,
+    "dp": 1299.0,
+    "bv": 9.0
+  },
+  {
+    "id": 473,
+    "name": "Zeno Kids Cotton Night Suit",
+    "category": "Fashion",
+    "mrp": 799.0,
+    "dp": 549.0,
+    "bv": 3.8
+  },
+  {
+    "id": 474,
+    "name": "Stivali Men's Slippers Casual",
+    "category": "Footwear",
+    "mrp": 699.0,
+    "dp": 449.0,
+    "bv": 3.0
+  },
+  {
+    "id": 475,
+    "name": "Stivali Women's Flat Sandals",
+    "category": "Footwear",
+    "mrp": 999.0,
+    "dp": 699.0,
+    "bv": 4.8
+  },
+  {
+    "id": 476,
+    "name": "Sanskruti Brass Pooja Kalash",
+    "category": "Spiritual & Decor",
+    "mrp": 599.0,
+    "dp": 419.0,
+    "bv": 3.0
+  },
+  {
+    "id": 477,
+    "name": "Sanskruti Jasmine Incense Sticks 250g",
+    "category": "Spiritual & Decor",
+    "mrp": 180.0,
+    "dp": 130.0,
+    "bv": 0.8
+  },
+  {
+    "id": 478,
+    "name": "Sanskruti Cotton Dhoop Batti 100g",
+    "category": "Spiritual & Decor",
+    "mrp": 150.0,
+    "dp": 110.0,
+    "bv": 0.6
+  },
+  {
+    "id": 479,
+    "name": "Miakasa Floor Cleaner Liquid 1L",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 229.0,
+    "bv": 1.5
+  },
+  {
+    "id": 480,
+    "name": "Miakasa Dishwash Bar 200g Pack of 4",
+    "category": "Home Care",
+    "mrp": 120.0,
+    "dp": 95.0,
+    "bv": 0.5
+  },
+  {
+    "id": 481,
+    "name": "Haoma Vitamin C Serum 20ml",
+    "category": "Personal Care",
+    "mrp": 499.0,
+    "dp": 349.0,
+    "bv": 2.5
+  },
+  {
+    "id": 482,
+    "name": "Haoma Rose Water Spray 100ml",
+    "category": "Personal Care",
+    "mrp": 199.0,
+    "dp": 139.0,
+    "bv": 0.9
+  },
+  {
+    "id": 483,
+    "name": "Haoma Charcoal Face Wash 100ml",
+    "category": "Personal Care",
+    "mrp": 249.0,
+    "dp": 175.0,
+    "bv": 1.2
+  },
+  {
+    "id": 484,
+    "name": "Haoma Sunscreen Lotion SPF 50 100ml",
+    "category": "Personal Care",
+    "mrp": 549.0,
+    "dp": 385.0,
+    "bv": 2.7
+  },
+  {
+    "id": 485,
+    "name": "Haoma Under Eye Cream 30g",
+    "category": "Personal Care",
+    "mrp": 399.0,
+    "dp": 279.0,
+    "bv": 2.0
+  },
+  {
+    "id": 486,
+    "name": "La Rasoi Red Chilli Whole 200g",
+    "category": "Groceries & Spices",
+    "mrp": 110.0,
+    "dp": 92.0,
+    "bv": 0.4
+  },
+  {
+    "id": 487,
+    "name": "La Rasoi Dry Fenugreek Leaves (Kasuri Methi) 100g",
+    "category": "Groceries & Spices",
+    "mrp": 75.0,
+    "dp": 60.0,
+    "bv": 0.3
+  },
+  {
+    "id": 488,
+    "name": "La Rasoi Mustard Oil 1L",
+    "category": "Groceries & Spices",
+    "mrp": 195.0,
+    "dp": 169.0,
+    "bv": 1.0
+  },
+  {
+    "id": 489,
+    "name": "La Rasoi Refined Sunflower Oil 1L",
+    "category": "Groceries & Spices",
+    "mrp": 180.0,
+    "dp": 155.0,
+    "bv": 0.9
+  },
+  {
+    "id": 490,
+    "name": "La Rasoi Desi Cow Ghee 500ml Jar",
+    "category": "Groceries & Spices",
+    "mrp": 450.0,
+    "dp": 399.0,
+    "bv": 2.5
+  },
+  {
+    "id": 491,
+    "name": "Miakasa Lemon Dishwash Gel 500ml",
+    "category": "Home Care",
+    "mrp": 199.0,
+    "dp": 155.0,
+    "bv": 1.0
+  },
+  {
+    "id": 492,
+    "name": "Miakasa Fabric Detergent Liquid 1L",
+    "category": "Home Care",
+    "mrp": 299.0,
+    "dp": 239.0,
+    "bv": 1.5
+  },
+  {
+    "id": 493,
+    "name": "Miakasa Bathroom Cleaner Liquid 500ml",
+    "category": "Home Care",
+    "mrp": 180.0,
+    "dp": 140.0,
+    "bv": 0.8
+  },
+  {
+    "id": 494,
+    "name": "Miakasa Glass Cleaner 500ml",
+    "category": "Home Care",
+    "mrp": 160.0,
+    "dp": 125.0,
+    "bv": 0.7
+  },
+  {
+    "id": 495,
+    "name": "Miakasa Toilet Rim Block 50g",
+    "category": "Home Care",
+    "mrp": 99.0,
+    "dp": 75.0,
+    "bv": 0.4
+  },
+  {
+    "id": 496,
+    "name": "Zeno Men's Formal Shirt White",
+    "category": "Fashion",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.5
+  },
+  {
+    "id": 497,
+    "name": "Zeno Women's Ethnic Kurti Set",
+    "category": "Fashion",
+    "mrp": 1799.0,
+    "dp": 1199.0,
+    "bv": 8.5
+  },
+  {
+    "id": 498,
+    "name": "Stivali Men's Leather Sandals",
+    "category": "Footwear",
+    "mrp": 1299.0,
+    "dp": 899.0,
+    "bv": 6.0
+  },
+  {
+    "id": 499,
+    "name": "Sanskruti Brass Puja Bell Small",
+    "category": "Spiritual & Decor",
+    "mrp": 250.0,
+    "dp": 175.0,
+    "bv": 1.0
+  },
+  {
+    "id": 500,
+    "name": "Sanskruti Pure Camphor Tablets 100g",
+    "category": "Spiritual & Decor",
+    "mrp": 160.0,
+    "dp": 120.0,
+    "bv": 0.7
   }
 ]
